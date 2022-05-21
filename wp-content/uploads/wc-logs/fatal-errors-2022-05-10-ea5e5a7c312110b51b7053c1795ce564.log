@@ -1,0 +1,2 @@
+2022-05-10T18:12:27+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 32768 bytes) in C:\xampp\htdocs\Fitness_zone\wp-admin\includes\ajax-actions.php on line 4919
+
